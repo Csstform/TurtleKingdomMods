@@ -10,3 +10,6 @@ If you make any content available on or through our Game, you must give us permi
 
 From the Minecraft EULA.
 https://account.mojang.com/documents/minecraft_eula
+
+[13:22] <@Algo> cause my mod can be included
+~AE2
